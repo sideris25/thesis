@@ -1,0 +1,23 @@
+# --- Geophysics & Thesis Data ---
+*.npy
+*.npz
+*.dat
+*.csv
+*.mat
+*.vtu
+*.vtk
+*.bmat
+
+# --- Python & Jupyter Junk ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.venv
+env/
+venv/
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
