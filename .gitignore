@@ -1,4 +1,4 @@
-# --- Geophysics & Thesis Data ---
+
 *.npy
 *.npz
 *.dat
@@ -8,7 +8,7 @@
 *.vtk
 *.bmat
 
-# --- Python & Jupyter Junk ---
+
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
@@ -18,6 +18,6 @@ __pycache__/
 env/
 venv/
 
-# --- OS Junk ---
+
 .DS_Store
 Thumbs.db
