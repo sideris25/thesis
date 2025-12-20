@@ -7,7 +7,7 @@
 *.vtu
 *.vtk
 *.bmat
-
+*.txt
 
 __pycache__/
 *.py[cod]
