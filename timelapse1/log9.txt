@@ -1,0 +1,4 @@
+Step 9 | Marker6: 5 
+Norm Err: 0.16684658314955134
+Min/Max Rhoa: 24.035874863542244 / 86.69882924599014
+Data: Data: Sensors: 21 data: 171, nonzero entries: ['a', 'b', 'err', 'i', 'k', 'm', 'n', 'r', 'rhoa', 'u', 'valid']
