@@ -18,6 +18,14 @@ __pycache__/
 env/
 venv/
 
+# MATLAB temporary files
+*.asv
+*.slxc
+*.mex*
+!*.mlx
+
+# Simulink code generation
+slprj/
 
 .DS_Store
 Thumbs.db
